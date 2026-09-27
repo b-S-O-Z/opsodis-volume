@@ -56,3 +56,7 @@ Windows に入っている .NET Framework 4.x の `csc.exe` を使うので、SD
 - `bin\Probe.exe`: 再生デバイスの音量の特性と、各セッションの音量を表示します（診断用）。
 - `tools\SetVol.cs`, `tools\SetSession.cs`: 動作確認に使った補助ツールです。
 - 仮想オーディオデバイス（カーネルドライバ）を作る方法も検討しましたが、署名していないドライバを入れるにはテスト署名モードが必要です。また遅延も増えるため、採用していません。
+
+## ライセンス
+
+MIT License. See [LICENSE](LICENSE).
